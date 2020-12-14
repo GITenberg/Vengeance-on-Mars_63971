@@ -1,0 +1,37 @@
+_repo: Vengeance-on-Mars_63971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bixby, Jerome
+    aliases:
+    - Bixby, Jerry
+    - Lewis, D. B.
+    - Neal, Harry
+    - Lewis, D.B.
+    - Bixby, Jay Lewis
+    - Bixby, Drexel Jerome Lewis
+    - Drexel, Jay B.
+    birthdate: 1923
+    deathdate: 1998
+    gutenberg_agent_id: '34130'
+    url: http://www.gutenberg.org/2009/agents/34130
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Male friendship -- Fiction'
+- GITenberg
+title: Vengeance on Mars!
+url: http://www.gutenberg.org/ebooks/63971
